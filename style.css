@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+#heading {
+  font-family: 'Cutive Mono', monospace;
+  font-weight: bolder;
+}
+
+.info {
+  font-family: 'Cutive Mono', monospace;
+  font-weight: 500px;
+  background-color: bisque;
+}
+
+img {
+  style="height: 250px; width: auto"
+}
+=======
+/* #heading {
+  font-family: 'Shizuru', cursive;
+  color: #AC3931;
+  background-color: #2F1847;
+  font-size: 50px;
+  line-height: 72px;
+} */
+
+/* h1 {
+  display: inline;
+}
+
+button {
+  display: block;
+} */
+
+/* input { */
+  /* border: 10px solid black; */
+  /* padding: 20px */
+  /* margin: 20px; */
+/* } */
+
+#myDiv {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  padding: 20px;
+  border: 5px solid;
+}
+>>>>>>> a4385e6d29045369304c5f650e5b86f266bb2d28
